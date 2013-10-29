@@ -515,7 +515,7 @@ print_r("\n");
 print_r("\n");
 print_r("This script is public domain code. This notice must be left intact.");
 print_r("\n");
-print_r("Script developed by Joseph. S. White joesfreicoinpool -at- gmail (dot) com");
+print_r("Script developed by Joseph. S. White joesfreicoinpool -at- gmail (dot) com http://pool.cr.rs");
 print_r("\n");
 print_r("FRC donation address to Joseph S. White: 1FRCJoeWXbYe47cmuW3do8VoqAr9HuWbpJ");
 print_r("\n");
