@@ -4,7 +4,7 @@ FoundationCoins
 FoundationCoins is a quick down and dirty php script used to calculate the current number of coins the FreiCoin Foundation has.
 
 
-Created by Joseph S. White of pool.cr.rs joesfreicoinpool -at- gmail (dot) com
+Created by Joseph S. White of pool.cr.rs joesfreicoinpool -at- gmail (dot) com http://pool.cr.rs
 Donate: 1FRCJoeWXbYe47cmuW3do8VoqAr9HuWbpJ
 
 
