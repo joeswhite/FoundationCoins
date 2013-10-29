@@ -11,7 +11,7 @@
 *(mined coins plus coins distributed by the foundation)
 *
 *WARNING!!!! THIS SCRIPT DOES NOT ACCOUNT FOR DEMURRAGE ON EXISTING COINS.
-*THIS IS FOR REOUGHT ESTIMATES ONLY
+*THIS IS FOR ROUGH ESTIMATES ONLY
 *
 *BE AWARE THAT FREICOIN IS NOT BITCOIN! NOR DO THE FREICOIN DEVELOPERS KEEP ANY FOUNDATION FUNDS FOR THEMSELVES!
 *CHECK http://freicoin.org FOR ANY NEW UPDATES
@@ -29,7 +29,7 @@
 *FoundationCoins.php
 *Script version 1.0 
 *
-*Developed by Joseph S. White joesfreicoinpool -at- gmail -dot- com
+*Developed by Joseph S. White joesfreicoinpool -at- gmail -dot- com http://pool.cr.rs
 *FRC donation address 1FRCJoeWXbYe47cmuW3do8VoqAr9HuWbpJ
 *Released on 10/29/13
 *
